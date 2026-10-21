@@ -1,0 +1,13 @@
+{
+  "android": {
+    "surum": "5.1",
+    "kod": 25,
+    "link": "https://github.com/4Khomedeco/VYKO/releases/download/v5.1/VYKO-5.1.zip",
+    "notlar": "Release imzalı ve küçültülmüş APK, uygulama içi yt-dlp güncelleme, çerez desteği, yeni sürüm bildirimi. İlk kurulumda eski (5.0 ve öncesi) sürümü silin."
+  },
+  "web": {
+    "surum": "5.1",
+    "link": "https://github.com/4Khomedeco/VYKO/releases/latest",
+    "notlar": "Ayarlar'dan yt-dlp güncelleme, çerez (cookies.txt / tarayıcı) desteği, yeni sürüm bildirimi."
+  }
+}
