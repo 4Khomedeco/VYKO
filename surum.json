@@ -1,13 +1,13 @@
 {
   "android": {
-    "surum": "5.2",
-    "kod": 26,
-    "link": "https://github.com/4Khomedeco/VYKO/releases/download/v5.2/VYKO-5.2.apk",
-    "notlar": "Yeniden dene ve kaldığı yerden devam, hata kaydı paylaşma, bölümlere göre MP3 ayırma (etiketli), Microsoft sesleri için tanıtım cümlesi."
+    "surum": "5.3",
+    "kod": 27,
+    "link": "https://github.com/4Khomedeco/VYKO/releases/download/v5.3/VYKO-5.3.apk",
+    "notlar": "Toplu MP3/birleştir/sil, sosyal medya ön ayarları (Reels, YouTube, Kare, WhatsApp 16 MB), metinden video + altyazı (SRT)."
   },
   "web": {
-    "surum": "5.2",
+    "surum": "5.3",
     "link": "https://github.com/4Khomedeco/VYKO/releases/latest",
-    "notlar": "Yeniden dene, sunucu kapanınca indirmeler kaldığı yerden sürer, hata kaydı, bölümlere ayırma (etiketli), Microsoft tanıtım cümlesi."
+    "notlar": "Toplu MP3, sosyal medya ön ayarları, metinden video + altyazı (SRT)."
   }
 }

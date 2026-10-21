@@ -31,6 +31,9 @@ YouTube, Instagram, TikTok, Facebook, X ve yüzlerce siteden video/ses indirir; 
 ## Özellikler
 
 - Linkten indirme: site otomatik tanınır, kalite seçimi (4K'ya kadar video, 320 kbps MP3), oynatma listeleri, altyazı (SRT), kapak resmi gömme
+- **Metinden video:** seslendirmeye arka plan (renk ya da görsel), başlık ve altyazı ekleyip Reels / YouTube / kare MP4 üretir; SRT de kaydedilir
+- **Sosyal medya ön ayarları:** Reels/TikTok 9:16, YouTube 16:9, Kare 1:1, WhatsApp 16 MB
+- **Toplu işlem:** seçili videoları tek seferde MP3 yap, ses dosyalarını birleştir, toplu sil
 - **Bölümlere ayır:** bölümleri olan videolar ayrı MP3'ler olarak iner (bölüm adı, parça no, albüm, sanatçı etiketleriyle)
 - Yeniden dene / kaldığı yerden devam; uygulama kapansa bile yarım kalan kuyruk sorulur
 - Dönüştür: MP3 / MP4 / WAV / M4A, çözünürlük düşürme, telefondaki dosyalar
