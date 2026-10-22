@@ -1,6 +1,6 @@
 # VYKO – Media Downloader & Converter
 
-**by Tan Systems** · **Son sürüm: 5.4** (Android 5.4 / Web 5.4)
+**by Tan Systems** · **Son sürüm: 5.5** (Android 5.5 / Web 5.4)
 
 YouTube, Instagram, TikTok, Facebook, X ve yüzlerce siteden video/ses indirir; MP3 / MP4 / WAV / M4A'ya çevirir; keser, düzenler, birleştirir, seslendirir.
 

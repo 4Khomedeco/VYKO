@@ -1,9 +1,9 @@
 {
   "android": {
-    "surum": "5.4",
-    "kod": 28,
-    "link": "https://github.com/4Khomedeco/VYKO/releases/download/v5.4/VYKO-5.4.apk",
-    "notlar": "Sürüm rozeti üst çubukta, güncel ana sayfa kartları ve değişiklik listesi; metinden video kaldırıldı."
+    "surum": "5.5",
+    "kod": 29,
+    "link": "https://github.com/4Khomedeco/VYKO/releases/download/v5.5/VYKO-5.5.apk",
+    "notlar": "Açılıştaki karşılama penceresi Başla ile kapanıyor."
   },
   "web": {
     "surum": "5.4",
