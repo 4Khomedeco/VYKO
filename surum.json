@@ -1,13 +1,13 @@
 {
   "android": {
-    "surum": "5.3",
-    "kod": 27,
-    "link": "https://github.com/4Khomedeco/VYKO/releases/download/v5.3/VYKO-5.3.apk",
-    "notlar": "Toplu MP3/birleştir/sil, sosyal medya ön ayarları (Reels, YouTube, Kare, WhatsApp 16 MB), metinden video + altyazı (SRT)."
+    "surum": "5.4",
+    "kod": 28,
+    "link": "https://github.com/4Khomedeco/VYKO/releases/download/v5.4/VYKO-5.4.apk",
+    "notlar": "Sürüm rozeti üst çubukta, güncel ana sayfa kartları ve değişiklik listesi; metinden video kaldırıldı."
   },
   "web": {
-    "surum": "5.3",
+    "surum": "5.4",
     "link": "https://github.com/4Khomedeco/VYKO/releases/latest",
-    "notlar": "Toplu MP3, sosyal medya ön ayarları, metinden video + altyazı (SRT)."
+    "notlar": "Sürüm rozeti, güncel kartlar ve değişiklik listesi; metinden video kaldırıldı."
   }
 }
